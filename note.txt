@@ -1,0 +1,33 @@
+
+80-100 => A+
+70-79 => A
+60-69 => A-
+50-59 => B
+40-49 => C
+33-39 => D
+0-32 => F
+
+
+Bengali 79 => A
+English 88 => A+
+Maths 95 => A+
+
+
+
+
+
+80 81 82 83 84......100
+
+
+Operator (Relational Operator)
+
+>, <, >=, <=, ||
+
+
+110<=100
+
+Greater or Equal
+Less or Equal
+
+
+In Mathematics the mark of a student 77. Calculate the grade for the mark.
